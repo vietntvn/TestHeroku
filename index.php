@@ -30,7 +30,7 @@
 		<?php  
 			foreach ($resultSet as $row) {
 			echo '<li>' .
-				$row['name'] . ' --' . $row['course'] 
+				$row['studentname'] . ' --' . $row['course'] 
 				. '</li>';
 			}
 		?>
