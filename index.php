@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Hello world today 8-Oct-2019</title>
 </head>
 <body>
 	<?php  
